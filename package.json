@@ -1,0 +1,20 @@
+{
+  "name": "biocell-explorer",
+  "version": "1.0.0",
+  "description": "OVA - BioCell Explorer: Objeto Virtual de Aprendizaje sobre Células",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vuetify": "^3.5.0",
+    "@mdi/font": "^7.4.47",
+    "nuxt": "^3.10.0"
+  },
+  "devDependencies": {
+    "vite-plugin-vuetify": "^2.0.0"
+  }
+}
