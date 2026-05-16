@@ -3,7 +3,7 @@
     <div class="panel-header">
       <div class="header-text">
         <h2 class="panel-title">CENTRO DE <span class="highlight">VIDEOS - VERIFICADO</span></h2>
-        <p class="panel-desc">Explora nuestra videoteca científica y descubre el asombroso mundo celular.</p>
+        <p class="panel-desc">explora nuestra videoteca científica y descubre el asombroso mundo celular.</p>
       </div>
       <div class="header-filters">
         <div class="search-box">
