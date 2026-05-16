@@ -1,3 +1,3 @@
 ## integrantes 
-mateo ayala cogollo 
-maicol pereira 
+- mateo ayala cogollo
+- maicol pereira 
